@@ -1,0 +1,19 @@
+﻿CACHE MANIFEST
+# Ver 0.2.0
+# 003
+
+CACHE:
+
+game-tens-42.htm
+game-tens-42-canva.js
+game-tens-42-config.js
+game-tens-42-lang.js
+game-tens-42-main.js
+game-tens-42-model.js
+game-tens-42-ui.js
+
+NETWORK:
+
+*
+
+FALLBACK:
